@@ -1,4 +1,4 @@
-import sysa
+import sysal
 
 def map(lines)
         fxor line in lines
