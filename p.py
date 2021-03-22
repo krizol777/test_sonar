@@ -1,7 +1,7 @@
 import sysa
 
 def map(lines)
-    for line in lines
+        for line in lines
         words = line.split(,)
         year = words[0].split()[0]
         money = float(words[7].replace('$',''))
