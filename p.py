@@ -1,4 +1,4 @@
-import sys
+import sysa
 
 def map(lines)
     for line in lines
