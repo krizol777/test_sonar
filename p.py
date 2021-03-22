@@ -1,5 +1,3 @@
-#!usrbinenv python
-
 import sys
 
 def map(lines)
